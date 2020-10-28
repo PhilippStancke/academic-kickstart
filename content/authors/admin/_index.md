@@ -25,9 +25,6 @@ organizations:
   - name: Justus-Liebig-Universität Gießen
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
     - course: BSc in Economics
       year: 1
       institution: Justus-Liebig-Universität Gießen
