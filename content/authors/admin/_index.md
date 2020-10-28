@@ -1,7 +1,6 @@
 ---
 title: Philipp Manuel Stancke
 role: Student of Economics (B.Sc.)
-avatar_filename: img_9775-edit.jpg
 bio: Student of Economics with a focus on International Economics. Interest and
   basic knowledge in Data Science and Development Economics.
 interests:
@@ -27,7 +26,7 @@ organizations:
 education:
   courses:
     - course: BSc in Economics
-      year: 1
+      year: 2021
       institution: Justus-Liebig-Universität Gießen
 email: ""
 superuser: true
