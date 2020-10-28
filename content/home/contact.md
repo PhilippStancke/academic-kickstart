@@ -22,5 +22,21 @@ email_form = 2
   captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+<form
+  action="https://formspree.io/f/myybjyqj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
