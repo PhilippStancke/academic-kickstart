@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "German"
   description = "C2"
   
