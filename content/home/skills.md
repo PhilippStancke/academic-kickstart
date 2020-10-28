@@ -15,76 +15,46 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "chart-line"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "German"
+  description = "C2"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Spanish"
+  description = "C1"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "English"
+  description = "C1"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "French"
+  description = "B2.2"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Portuguese"
+  description = "A2.2"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Italian"
+  description = "A2"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Chinese"
+  description = "A1"
 
 # Uncomment to use emoji icons.
 # [[feature]]
