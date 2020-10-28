@@ -28,7 +28,7 @@ education:
     - course: BSc in Economics
       year: 2021
       institution: Justus-Liebig-Universität Gießen
-email: ""
+email: pstancke@yahoo.de
 superuser: true
 user_groups:
   - Researchers
