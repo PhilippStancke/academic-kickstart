@@ -1,6 +1,7 @@
 ---
 title: Philipp Manuel Stancke
 role: Student of Economics (B.Sc.)
+avatar_filename: img_9775-edit.jpg
 bio: Student of Economics with a focus on International Economics. Interest and
   basic knowledge in Data Science and Development Economics.
 interests:
