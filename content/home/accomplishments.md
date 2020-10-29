@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   * __Inhalte:__ landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.
 """
 
-""" __Forma:__
+""" __Formal:__
   * Vertiefung von Gebrauch des subjuntivo presente; subjuntivo zum Ausdruck des Zweifels, der Unsicherheit und der Wahrscheinlichkeit sowie in feststehenden Wendungen; Verwendung des subjuntivo perfecto, imperfecto, pluscuamperfecto
   * Vertiefung Zeitenfolge indicativo/subjuntivo
   * Verben der Zustands- und Wesensveränderung (verbos de cambio)
