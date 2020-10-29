@@ -25,7 +25,7 @@ organizations:
   - name: Justus-Liebig-Universität Gießen
 education:
   courses:
-    - course: BSc in Economics
+    - course: B.Sc. in Economics
       year: 2021
       institution: Justus-Liebig-Universität Gießen
 email: pstancke@yahoo.de
