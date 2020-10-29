@@ -49,15 +49,15 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
-  description = """Kommunikativ:
-  * Lesen: zu thematisch vertrauten Themen längere, mittelschwere Texte rasch durchsuchen und wichtige Einzelinformationen auffinden; die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themen verstehen; Artikel und Berichte über Probleme der Gegenwart verstehen, in denen eine bestimmte Haltung oder einen bestimmten Standpunkt vertreten sind.
-  * Hören: zu thematisch vertrauten Themen längere, mittelschwere allgemein- sowie fachsprachliche Äußerungen (Unterhaltungen, Diskussionen, Reden, Vorträgen, Nachrichtensendungen usw.) verstehen und die Gesamtaussage sowie die wichtigsten Einzelheiten entnehmen.
-  * Sprechen: sich so spontan und fließend verständigen, dass ein normales Gespräch mit Muttersprachlern auf beiden Seiten gut möglich ist; sich zu einem breiten Themenspektrum klar und detailliert ausdrücken; an Diskussionen mittleren Schwierigkeitsgrads teilnehmen und dabei den eigenen Standpunkt vertreten; Vor- und Nachteile erörtern sowie die Standpunkte der Gesprächspartner erfragen; an einem kurzen Assessment-Center teilnehmen.
-  * Schreiben: über eine Vielzahl von Themen klare und detaillierte Texte schreiben; in einem Aufsatz oder Bericht Informationen wiedergeben oder Argumente und Gegenargumente für oder gegen einen bestimmten Standpunkt darlegen; Informationen aus verschiedenen Quellen und Medien zusammenfassen; den eigenen Lebenslauf sowie eine E-Mail-Bewerbung verfassen.
-  * Kommunikative Lernziele: über studien- und berufsbezogene Situationen reden; über interkulturelle Erfahrungen berichten; Gefühle und Reaktionen auf Ereignisse schildern; argumentieren und vergleichen; besondere Berücksichtigung der sprachlichen Anforderungen in Beruf und Studium.
-  * Inhalte: landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.\
+  description = """<strong>Kommunikativ:</strong>
+  * <strong>Lesen:</strong> zu thematisch vertrauten Themen längere, mittelschwere Texte rasch durchsuchen und wichtige Einzelinformationen auffinden; die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themen verstehen; Artikel und Berichte über Probleme der Gegenwart verstehen, in denen eine bestimmte Haltung oder einen bestimmten Standpunkt vertreten sind.
+  * <strong>Hören:</strong> zu thematisch vertrauten Themen längere, mittelschwere allgemein- sowie fachsprachliche Äußerungen (Unterhaltungen, Diskussionen, Reden, Vorträgen, Nachrichtensendungen usw.) verstehen und die Gesamtaussage sowie die wichtigsten Einzelheiten entnehmen.
+  * <strong>Sprechen:</strong> sich so spontan und fließend verständigen, dass ein normales Gespräch mit Muttersprachlern auf beiden Seiten gut möglich ist; sich zu einem breiten Themenspektrum klar und detailliert ausdrücken; an Diskussionen mittleren Schwierigkeitsgrads teilnehmen und dabei den eigenen Standpunkt vertreten; Vor- und Nachteile erörtern sowie die Standpunkte der Gesprächspartner erfragen; an einem kurzen Assessment-Center teilnehmen.
+  * <strong>Schreiben:</strong> über eine Vielzahl von Themen klare und detaillierte Texte schreiben; in einem Aufsatz oder Bericht Informationen wiedergeben oder Argumente und Gegenargumente für oder gegen einen bestimmten Standpunkt darlegen; Informationen aus verschiedenen Quellen und Medien zusammenfassen; den eigenen Lebenslauf sowie eine E-Mail-Bewerbung verfassen.
+  * <strong>Kommunikative Lernziele:</strong> über studien- und berufsbezogene Situationen reden; über interkulturelle Erfahrungen berichten; Gefühle und Reaktionen auf Ereignisse schildern; argumentieren und vergleichen; besondere Berücksichtigung der sprachlichen Anforderungen in Beruf und Studium.
+  * <strong>Inhalte:</strong> landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.\
 
-  Formal:
+  <strong>Formal:</strong>
   * Vertiefung von Gebrauch des subjuntivo presente; subjuntivo zum Ausdruck des Zweifels, der Unsicherheit und der Wahrscheinlichkeit sowie in feststehenden Wendungen; Verwendung des subjuntivo perfecto, imperfecto, pluscuamperfecto
   * Vertiefung Zeitenfolge indicativo/subjuntivo
   * Verben der Zustands- und Wesensveränderung (verbos de cambio)
