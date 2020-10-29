@@ -64,7 +64,9 @@ date_format = "Jan 2006"
   * Verben der Zustands- und Wesensveränderung (verbos de cambio)
   * Adverbial bestimmte Nebensätze: temporal, final, konzessiv, konditional und komparativ
   * Konnektoren und Präpositionen (Satzgliedstellung, inhaltliche Funktion)
-  * Idiomatische Wendungen und kolloquiale Ausdrücke"""
+  * Idiomatische Wendungen und kolloquiale Ausdrücke
+  
+  """
 
 
 [[item]]
