@@ -76,7 +76,7 @@ __Information:__
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
-  description = """Content:
+  description = """ __Content:__
   * The objective of this course is to exchange both orally and in writing on very diverse subjects such as identity and origins, the French-speaking world, Charles de Gaulle, May 68 in the world or the waste of natural resources. The grammar points covered will focus on the difference between the subjunctive and the indicative, the past tense and the imperfect. We will also learn how to form the simple past tense which allows you to read any book in French."""
 
 [[item]]
