@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "ZfbK"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
-  title = "Spanish B2.2 / C1"
+  title = "Spanish B2.2 UNIcert II"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
@@ -66,18 +66,20 @@ __Formale:__
   * Idiomatische Wendungen und kolloquiale Ausdrücke<br/><br/>
   
 __Information:__
-  * Due to Philipp M. Stancke's one-and-a-half year study stay in Bogotá, Colombia, a level of C1 can be expected.
+  * Due to Philipp M. Stancke's one-and-a-half year study stay in Bogotá, Colombia, a level of __C1__ can be expected.
 """
 
 [[item]]
   organization = "ZfbK"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
-  title = "French B2.2"
+  title = "French B2.2 UNIcert II"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
   description = """ __Content:__
-  * The objective of this course is to exchange both orally and in writing on very diverse subjects such as identity and origins, the French-speaking world, Charles de Gaulle, May 68 in the world or the waste of natural resources. The grammar points covered will focus on the difference between the subjunctive and the indicative, the past tense and the imperfect. We will also learn how to form the simple past tense which allows you to read any book in French."""
+  * The objective of this course is to exchange both orally and in writing on very diverse subjects such as identity and origins, the French-speaking world, Charles de Gaulle, May 68 in the world or the waste of natural resources.
+  * The grammar points covered will focus on the difference between the subjunctive and the indicative, the past tense and the imperfect.
+  * We will also learn how to form the simple past tense which allows you to read any book in French."""
 
 [[item]]
   organization = "edX"
