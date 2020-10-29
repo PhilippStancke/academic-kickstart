@@ -36,13 +36,11 @@ date_format = "Jan 2006"
   date_start = "2020-04-20"
   date_end = ""
   description = """Content:
-  * bla
-  * bla
   * Apply different reading strategies.
-  * perform a close reading of academic texts in English with different foci (macro and micro structure, language, content).
-  * understand and apply accurate words and academic phrases in English based on audience expectations for particular sections of a text.
-  * construct a coherent as well as formally and linguistically adequate argumentation.
-  * write in a variety of academic genres for different academic audiences."""
+  * Perform a close reading of academic texts in English with different foci (macro and micro structure, language, content).
+  * Understand and apply accurate words and academic phrases in English based on audience expectations for particular sections of a text.
+  * Construct a coherent as well as formally and linguistically adequate argumentation.
+  * Write in a variety of academic genres for different academic audiences."""
 
 [[item]]
   organization = "edX"
