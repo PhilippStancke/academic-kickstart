@@ -8,6 +8,19 @@ weight = 50  # Order that this section will appear.
 title = "Languages"
 subtitle = ""
 
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "languages"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
+
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+  
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
