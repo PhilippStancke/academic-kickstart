@@ -50,21 +50,21 @@ date_format = "Jan 2006"
   date_start = "2020-04-20"
   date_end = "2020-09-30"
   description = """
-<p>__Kommunikativ:__
+  __Kommunikativ:__
   * __Lesen:__ zu thematisch vertrauten Themen längere, mittelschwere Texte rasch durchsuchen und wichtige Einzelinformationen auffinden; die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themen verstehen; Artikel und Berichte über Probleme der Gegenwart verstehen, in denen eine bestimmte Haltung oder einen bestimmten Standpunkt vertreten sind.
   * __Hören:__ zu thematisch vertrauten Themen längere, mittelschwere allgemein- sowie fachsprachliche Äußerungen (Unterhaltungen, Diskussionen, Reden, Vorträgen, Nachrichtensendungen usw.) verstehen und die Gesamtaussage sowie die wichtigsten Einzelheiten entnehmen.
   * __Sprechen:__ sich so spontan und fließend verständigen, dass ein normales Gespräch mit Muttersprachlern auf beiden Seiten gut möglich ist; sich zu einem breiten Themenspektrum klar und detailliert ausdrücken; an Diskussionen mittleren Schwierigkeitsgrads teilnehmen und dabei den eigenen Standpunkt vertreten; Vor- und Nachteile erörtern sowie die Standpunkte der Gesprächspartner erfragen; an einem kurzen Assessment-Center teilnehmen.
   * __Schreiben:__ über eine Vielzahl von Themen klare und detaillierte Texte schreiben; in einem Aufsatz oder Bericht Informationen wiedergeben oder Argumente und Gegenargumente für oder gegen einen bestimmten Standpunkt darlegen; Informationen aus verschiedenen Quellen und Medien zusammenfassen; den eigenen Lebenslauf sowie eine E-Mail-Bewerbung verfassen.
   * __Kommunikative Lernziele:__ über studien- und berufsbezogene Situationen reden; über interkulturelle Erfahrungen berichten; Gefühle und Reaktionen auf Ereignisse schildern; argumentieren und vergleichen; besondere Berücksichtigung der sprachlichen Anforderungen in Beruf und Studium.
-  * __Inhalte:__ landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.<\p>
+  * __Inhalte:__ landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.
 
-<p>__Forma:__
+__Forma:__
   * Vertiefung von Gebrauch des subjuntivo presente; subjuntivo zum Ausdruck des Zweifels, der Unsicherheit und der Wahrscheinlichkeit sowie in feststehenden Wendungen; Verwendung des subjuntivo perfecto, imperfecto, pluscuamperfecto
   * Vertiefung Zeitenfolge indicativo/subjuntivo
   * Verben der Zustands- und Wesensveränderung (verbos de cambio)
   * Adverbial bestimmte Nebensätze: temporal, final, konzessiv, konditional und komparativ
   * Konnektoren und Präpositionen (Satzgliedstellung, inhaltliche Funktion)
-  * Idiomatische Wendungen und kolloquiale Ausdrücke<\p>
+  * Idiomatische Wendungen und kolloquiale Ausdrücke
   
   """
 
