@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "ZfbK"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
-  title = "Spanish B2.2"
+  title = "Spanish B2.2 / C1"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
@@ -66,7 +66,7 @@ __Formale:__
   * Idiomatische Wendungen und kolloquiale Ausdrücke<br/><br/>
   
 __Information:__
-  * Due to Philipp M. Stancke's one-and-a-half year study stay in Bogotá, Colombia, a level of C1 to C2 can be expected.
+  * Due to Philipp M. Stancke's one-and-a-half year study stay in Bogotá, Colombia, a level of C1 can be expected.
 """
 
 [[item]]
