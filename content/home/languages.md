@@ -117,6 +117,36 @@ __Formal:__
   * Pronominaladverb ne"""
 
 [[item]]
+  organization = "ZfbK"
+  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Chinesisch_A1.html"
+  title = "Chinesisch A1"
+  url = ""
+  date_start = "2017-04-20"
+  date_end = "2017-09-30"
+  description = """ Der Unterricht behandelt Alltagskommunikation wie Begrüßung, Selbstvorstellung, Austauschen von Kontaktdaten, Familie, Datum und Uhrzeit. Der Schwerpunkt dieses Kurses wird auf Sprechen und Hören gelegt. Schritt für Schritt lernen Sie die chinesischen Schriftzeichen. Neben der Sprache und kulturellem Wissen ist auch eine Einführung in die chinesische Geschichte und Politik geplant.<br/><br/>
+
+__Formal vermittelt der Kurs die folgenden Inhalte:__
+  * Einführung in die chinesische Sprache und Schriftzeichen
+  * Die chinesischen Ausspracheregeln, die offizielle lateinische Umschrift
+  * Einfache Aussagesätze, Fragesätze, Sätze mit Modalverben, Verneinungen
+  * Adjektive
+  * Zähleinheitswörter (ZEW), Demonstrativpronomen, Attribute mit ?de?
+  * Zahlen
+  * Datumsangaben<br/><br/>
+
+__Kommunikative Kompetenz:__
+  * __Hören:__ Die Studierenden können einzelne Begriffe verstehen und ihnen eine Pinyin-Umschrift (die offizielle lateinische Umschrift nach den chinesischen Ausspracheregeln) zuordnen.
+  * __Lesen:__ Die Studierenden können die Pinyin-Umschrift und einzelne gelernte Zeichen lesen. Nach längerer Vorbeschäftigung mit einzelnen kurzen Sätzen auf Zeichenbasis können diese gelesen werden.
+  * __Sprechen:__ Die Studierenden können in den meisten Fällen die Pinyin-Umschrift sprachlich umsetzen. Sie können einfache Fragen auf der Basis der bekannten Vokabeln beantworten.
+  * __Schreiben:__ Die Studierenden können nach Anleitung einzelne erlernte Schriftzeichen bzw. einfache bekannte Satzstrukturen in Pinyin-Umschrift und ergänzend in Schriftzeichen niederschreiben.<br/><br/>
+
+Methodische Kompetenz (Lern- und Arbeitstechniken; Umgang mit Texten und Medien):
+  * Memorier- und Strukturierungstechniken beim Schriftzeichenerwerb
+  * Techniken zur Erkennung grammatischer Strukturen
+  * Techniken der Übersetzung
+  * Hör- und Leseverstehensstrategien"""
+
+[[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
