@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
   organization = "ZfbK"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Englisch_C1_2__EAP_Advanced_Reading_Writing.html"
   title = "English C1.2: EAP Advanced Reading/Writing"
