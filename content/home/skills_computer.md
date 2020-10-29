@@ -32,12 +32,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "ZfbK"
-  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
-  title = "English C1.2: EAP Advanced Reading/Writing"
-  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Englisch_C1_2__EAP_Advanced_Reading_Writing.html"
-  date_start = "2020-04-20"
-  date_end = "2020-09-30"
+  organization = ""
+  organization_url = ""
+  title = "Stata"
+  url = ""
+  date_start = ""
+  date_end = ""
   description = """"""
 
 +++
