@@ -15,25 +15,10 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 1
 
 # Netlify form settings.
 [netlify]
   captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
-
-<form action="https://formspree.io/f/myybjyqj" method="POST">
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
 
