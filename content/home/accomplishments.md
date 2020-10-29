@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
-  description = """Content:
+  description = """ __Content:__
   * Apply different reading strategies.
   * Perform a close reading of academic texts in English with different foci (macro and micro structure, language, content).
   * Understand and apply accurate words and academic phrases in English based on audience expectations for particular sections of a text.
