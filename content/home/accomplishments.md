@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-04-20"
   date_end = ""
-  description = `"""`Content:`"""`
+  description = "Content:"
 
 [[item]]
   organization = "edX"
