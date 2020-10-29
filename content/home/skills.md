@@ -19,7 +19,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "German"
   description = "C2"
-  size = 0.5
   
 [[feature]]
   icon = "chart-line"
