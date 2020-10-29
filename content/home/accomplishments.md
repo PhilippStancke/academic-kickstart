@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
   title = "Spanisch B2.2"
   url = ""
-  date_start = ""
+  date_start = "2016-10-01"
   date_end = ""
   description = ""
 
