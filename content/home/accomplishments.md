@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "Englisch C1.2: EAP Advanced Reading/Writing"
   url = ""
   date_start = "2020-04-20"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """Content:
   * Apply different reading strategies.
   * Perform a close reading of academic texts in English with different foci (macro and micro structure, language, content).
