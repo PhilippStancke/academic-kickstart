@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   * __Kommunikative Lernziele:__ über studien- und berufsbezogene Situationen reden; über interkulturelle Erfahrungen berichten; Gefühle und Reaktionen auf Ereignisse schildern; argumentieren und vergleichen; besondere Berücksichtigung der sprachlichen Anforderungen in Beruf und Studium.
   * __Inhalte:__ landeskundliche Aspekte, politische und soziokulturelle Aktualität der spanischsprachigen Länder, sonstige Themen aus der zielsprachigen Welt unter besonderer Berücksichtigung der oben genannten kommunikativen Domänen.  
   
-__Formal:__
+__Formale:__
   * Vertiefung von Gebrauch des subjuntivo presente; subjuntivo zum Ausdruck des Zweifels, der Unsicherheit und der Wahrscheinlichkeit sowie in feststehenden Wendungen; Verwendung des subjuntivo perfecto, imperfecto, pluscuamperfecto
   * Vertiefung Zeitenfolge indicativo/subjuntivo
   * Verben der Zustands- und Wesensveränderung (verbos de cambio)
