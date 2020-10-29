@@ -76,8 +76,8 @@ __Information:__
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
   title = "Portuguese A2.2"
   url = ""
-  date_start = "2020-04-20"
-  date_end = "2020-09-30"
+  date_start = "2018-04-20"
+  date_end = "2018-09-30"
   description = """ __Content:__
   * """
 
