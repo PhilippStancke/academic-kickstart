@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "Spanish B2.2 UNIcert II"
   url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
-  date_start = "2020-04-20"
-  date_end = "2020-09-30"
+  date_start = "2016-10-10"
+  date_end = "2017-03-31"
   description = """ __Kommunikativ:__
   * __Lesen:__ zu thematisch vertrauten Themen längere, mittelschwere Texte rasch durchsuchen und wichtige Einzelinformationen auffinden; die Hauptinhalte komplexer Texte zu konkreten und abstrakten Themen verstehen; Artikel und Berichte über Probleme der Gegenwart verstehen, in denen eine bestimmte Haltung oder einen bestimmten Standpunkt vertreten sind.
   * __Hören:__ zu thematisch vertrauten Themen längere, mittelschwere allgemein- sowie fachsprachliche Äußerungen (Unterhaltungen, Diskussionen, Reden, Vorträgen, Nachrichtensendungen usw.) verstehen und die Gesamtaussage sowie die wichtigsten Einzelheiten entnehmen.
