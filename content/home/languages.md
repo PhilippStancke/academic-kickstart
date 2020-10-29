@@ -118,8 +118,8 @@ __Formal:__
   
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Italienisch_A2.html"
-  title = "Italian A2"
+  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Chinesisch_A1.html"
+  title = "Chinesisch A1"
   url = ""
   date_start = "2020-04-20"
   date_end = "2020-09-30"
