@@ -19,7 +19,7 @@ subtitle = "Languages"
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  # order = "desc"
+  order = "desc"
   
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
