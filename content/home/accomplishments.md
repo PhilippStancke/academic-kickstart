@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Englisch_C1_2__EAP_Advanced_Reading_Writing.html"
   title = "Englisch C1.2: EAP Advanced Reading/Writing"
   url = ""
-  date_start = "21. August 2020"
+  date_start = "2020-04-20"
   date_end = ""
   description = `"
   * apply different reading strategies.
