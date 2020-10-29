@@ -5,15 +5,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Languages"
-subtitle = ""
+title = "Skills"
+subtitle = "Languages"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "languages"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
