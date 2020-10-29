@@ -148,4 +148,6 @@ Methodische Kompetenz (Lern- und Arbeitstechniken; Umgang mit Texten und Medien)
   * Techniken der Übersetzung
   * Hör- und Leseverstehensstrategien"""
   
+subtitle = "IT-Software"
+
 +++
