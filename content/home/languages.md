@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Englisch_C1_2__EAP_Advanced_Reading_Writing.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "English C1.2: EAP Advanced Reading/Writing"
   url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Englisch_C1_2__EAP_Advanced_Reading_Writing.html"
   date_start = "2020-04-20"
@@ -34,9 +34,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "Spanish B2.2 UNIcert II"
-  url = ""
+  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
   date_start = "2020-04-20"
   date_end = "2020-09-30"
   description = """ __Kommunikativ:__
@@ -61,9 +61,9 @@ __Information:__
 
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "French B2.2 UNIcert II"
-  url = ""
+  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
   date_start = "2020-04-20"
   date_end = "2020-09-30"
   description = """ __Content:__
@@ -73,7 +73,7 @@ __Information:__
 
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "Portuguese A2.2"
   url = ""
   date_start = "2018-04-20"
@@ -83,9 +83,9 @@ __Information:__
 
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Italienisch_A2.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "Italian A2"
-  url = ""
+  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Italienisch_A2.html"
   date_start = "2020-04-20"
   date_end = "2020-09-30"
   description = """ __Kommunikativ:__
@@ -108,9 +108,9 @@ __Formal:__
   
 [[item]]
   organization = "ZfbK"
-  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Chinesisch_A1.html"
+  organization_url = "https://www.uni-giessen.de/fbz/zentren/zfbk"
   title = "Chinesisch A1"
-  url = ""
+  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Chinesisch_A1.html"
   date_start = "2017-04-20"
   date_end = "2017-09-30"
   description = """ Der Unterricht behandelt Alltagskommunikation wie Begrüßung, Selbstvorstellung, Austauschen von Kontaktdaten, Familie, Datum und Uhrzeit. Der Schwerpunkt dieses Kurses wird auf Sprechen und Hören gelegt. Schritt für Schritt lernen Sie die chinesischen Schriftzeichen. Neben der Sprache und kulturellem Wissen ist auch eine Einführung in die chinesische Geschichte und Politik geplant.<br/><br/>
