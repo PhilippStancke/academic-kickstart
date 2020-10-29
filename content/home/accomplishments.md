@@ -82,6 +82,41 @@ __Information:__
   * We will also learn how to form the simple past tense which allows you to read any book in French."""
 
 [[item]]
+  organization = "ZfbK"
+  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Franzoesisch_B2_2.html"
+  title = "Portuguese A2.2"
+  url = ""
+  date_start = "2020-04-20"
+  date_end = "2020-09-30"
+  description = """ __Content:__
+  * """
+
+[[item]]
+  organization = "ZfbK"
+  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Italienisch_A2.html"
+  title = "Italienisch A2"
+  url = ""
+  date_start = "2020-04-20"
+  date_end = "2020-09-30"
+  description = """ __Kommunikativ:__
+  * __Lesen:__ Verstehen sehr gebräuchlicher Alltags- oder Berufssprache/ studienfach-bezogener Sprache, privater Briefe, in denen von Ereignissen, Gefühlen und Wünschen berichtet wird.
+  * __Hören:__ Verstehen von Hauptpunkten, wenn klare Standardsprache verwendet wird und es um vertraute Dinge aus Arbeit, Studium, Freizeit usw. geht; Verstehen der Hauptpunkte in Radio- oder Fernsehsendungen über aktuelle Ereignisse und über Themen aus dem Studienfach-, Berufs- oder Interessengebiet, wenn langsam und deutlich gesprochen wird.
+  * __Sprechen:__ Verständigung in zusammenhängenden Sätzen, um über persönliche Erfahrungen, Erlebnisse oder Träume zu berichten; Darstellen der persönlichen Ziele, Pläne und Meinungen; Zusammenfassen von Filmen oder Büchern sowie die persönliche Meinung hierzu geben; Kindheitserinnerungen erzählen und über Verwandschafts-beziehungen sprechen.
+  * __Schreiben:__ Einfache, zusammenhängende Texte über vertraute Themen schreiben, eine Einladung zu einer Party verfassen, in persönlichen Briefen/E-Mails über Erfahrungen und Eindrücke berichten.
+  * __Kommunikative Lernziele:__ Bezug nehmen auf vergangene Ereignisse, unpersönliche Aussagen machen, beschreiben (Orte, Personen), vergleichen (Orte, Personen), Vergangenes beschreiben, über die eigene Arbeit/ das Studium berichten, Meinung äußern, Vermutungen äußern, Ratschläge erteilen.
+  * __Inhalte:__ Wohnung, Essgewohnheiten, Lebensbedingungen, Kindheitserinnerungen, Personenbeschreibungen, Feste, Traditionen.<br/><br/>
+  
+__Formal:__
+  * Imperfetto, Condizionale presente, Gerundio presente (in Modal- und Kausalsätzen), Imperativ
+  * Gebrauch von Imperfetto und Passato prossimo
+  * Diminutiv
+  * Relativpronomina
+  * Komparativ, relativer Superlativ
+  * Ortspräpositionen
+  * Hervorhebung des Objektspronomen
+  * Pronominaladverb ne"""
+
+[[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
