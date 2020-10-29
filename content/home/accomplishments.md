@@ -43,6 +43,16 @@ date_format = "Jan 2006"
   * Write in a variety of academic genres for different academic audiences."""
 
 [[item]]
+  organization = "ZfbK"
+  organization_url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
+  title = "Spanisch B2.2"
+  url = "https://buchsys.zfbk.uni-giessen.de/angebote/aktueller_zeitraum/_Spanisch_B2_2.html"
+  certificate = "UNIcert II"
+  date_start = "2016"
+  date_end = "2017"
+  description = ""
+
+[[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
